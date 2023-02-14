@@ -1,2 +1,3 @@
+lkmf
 #!/bin/bash
-echo $PATH | tr ':' '\n' | wc -1
+echo $PATH | tr ":" "\n" | wc -1
